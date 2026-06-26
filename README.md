@@ -1,11 +1,5 @@
 # Cybersecurity Awareness Chatbot - Part 3 / POE
 
-**Student:** Asemahle Mcwakumbana  
-**Student Number:** ADD YOUR STUDENT NUMBER  
-**Module:** PROG6221 / Programming 2A  
-**GitHub Repository:** ADD YOUR GITHUB REPOSITORY LINK  
-**Unlisted YouTube Video:** ADD YOUR YOUTUBE VIDEO LINK
-
 ## Project description
 
 This is a WPF GUI cybersecurity chatbot that combines Parts 1, 2, and 3 of the PROG6221 POE.
@@ -27,25 +21,7 @@ The application includes:
 - Newtonsoft.Json NuGet package
 - Git
 
-## Installing Newtonsoft.Json
 
-The project file already includes this package reference:
-
-```xml
-<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-```
-
-If Visual Studio does not restore it automatically:
-
-1. Right-click the project in Solution Explorer.
-2. Select **Manage NuGet Packages**.
-3. Search for **Newtonsoft.Json**.
-4. Install the latest stable version.
-
-You can also run this in the terminal:
-
-```powershell
-dotnet add package Newtonsoft.Json
 ```
 
 ## How to run
