@@ -1,0 +1,32 @@
+# Final checklist
+
+- [ ] Application runs in Visual Studio 2022.
+- [ ] Voice greeting plays.
+- [ ] ASCII art displays.
+- [ ] Bot asks for name and uses it.
+- [ ] At least 5 cybersecurity topics recognised.
+- [ ] Random responses demonstrated.
+- [ ] Sentiment detection gives immediate tip.
+- [ ] Follow-up phrase `tell me more` continues current topic.
+- [ ] Task assistant tab works.
+- [ ] Task added through chat appears in the task list.
+- [ ] Task is written to `tasks.json`.
+- [ ] Tasks load from `tasks.json` on startup.
+- [ ] Mark complete updates `IsComplete` in `tasks.json`.
+- [ ] Delete removes task from `tasks.json`.
+- [ ] Reminder field is stored.
+- [ ] Quiz launches from chat and button.
+- [ ] Quiz shows one question at a time.
+- [ ] Quiz gives immediate feedback and explanation.
+- [ ] Quiz shows final score.
+- [ ] Activity log records tasks, reminders, quiz actions, NLP, and keywords.
+- [ ] Activity log shows latest 10 entries.
+- [ ] Show More displays the full log.
+- [ ] NLP detects varied phrasing.
+- [ ] GitHub repo is public.
+- [ ] At least 6 meaningful commits.
+- [ ] Three tagged releases.
+- [ ] GitHub Actions green tick.
+- [ ] README includes GitHub and YouTube links.
+- [ ] YouTube video is Unlisted.
+- [ ] ZIP backup does not include bin or obj.

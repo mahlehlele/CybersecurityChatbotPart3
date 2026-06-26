@@ -1,0 +1,12 @@
+This package is aligned with the PROG6221 Part 3 guide that requires JSON task storage.
+
+Important actions before final submission:
+1. Fill in your student number in README.md.
+2. After pushing to GitHub, add your repository link to README.md.
+3. After uploading your unlisted YouTube video, add the video link to README.md.
+4. Run the app in Visual Studio 2022 and test all features.
+5. Create at least 6 meaningful commits.
+6. Create 3 GitHub releases: v3.0, v3.1, v3.2.
+7. Check that GitHub Actions has a green tick.
+8. Test your GitHub link in an incognito/private browser window.
+9. Do not submit bin or obj folders.
